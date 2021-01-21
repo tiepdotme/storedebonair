@@ -4,20 +4,20 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/8810cfc0ce9605a81cdbd0cb8313cd26.png",
-  "name": "storedebonair",
-  "short_name": "storedebonair",
+  "name": "Debonair",
+  "short_name": "Debonair",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/2b069f3bfd5ad40acdeb7ec058ad6c14.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/2b069f3bfd5ad40acdeb7ec058ad6c14.png",
   "store_id": 1217,
-  "description": "storedebonair",
-  "large_icon": "/img/large-icon.png"
+  "description": "rodutos de qualidade e com um precinho justo? Aqui na Debonair você encontra!",
+  "large_icon": "/img/uploads/8810cfc0ce9605a81cdbd0cb8313cd26.png"
 }
