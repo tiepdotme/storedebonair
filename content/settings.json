@@ -4,7 +4,7 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/8810cfc0ce9605a81cdbd0cb8313cd26.png",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/2b069f3bfd5ad40acdeb7ec058ad6c14.png",
   "store_id": 1217,
-  "description": "rodutos de qualidade e com um precinho justo? Aqui na Debonair você encontra!",
+  "description": "Produtos de qualidade e com um precinho justo? Aqui na Debonair você encontra!",
   "large_icon": "/img/uploads/8810cfc0ce9605a81cdbd0cb8313cd26.png"
 }
