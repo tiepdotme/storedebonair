@@ -14,5 +14,9 @@
   "promo": {
     "show": true,
     "text": "Diferentes promoções ao longo do ano!"
+  },
+  "promo2": {
+    "show": true,
+    "text": "Diferentes promoções ao longo do ano!"
   }
 }
