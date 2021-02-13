@@ -1,0 +1,12 @@
+{
+    "name": "theming",
+    "label": "Tema",
+    "description": "Configurações específicas do tema",
+    "delete": false,
+    "editor": {
+        "preview": false
+    },
+    "files": [
+    
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0934626a838ade012d6e6c04d12f328a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1be1485277fecf3cd02762143a84da21.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bb2569839ba6a009095c59b7919625c6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.291b3256a80b5b8df56235a834ec8f05.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.eafc56766d903f7421cc04f0540df945.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Debonair",
+  "short_name": "Debonair",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produtos de qualidade e com um precinho justo? Aqui na Debonair você encontra! website du happyonecentral tran thuy chinh",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
